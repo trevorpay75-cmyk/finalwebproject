@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-header {
+    background-color: #f0f4f8;
+}
+
+.card-header h3 {
+    margin: 0;
+    color: #0b2545;
+}
+
+footer {
+    margin-top: 40px;
+}
